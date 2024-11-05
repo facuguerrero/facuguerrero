@@ -6,4 +6,4 @@ I'm Facundo Guerrero, originally from Argentina and currently based in Barcelona
 
 🔗 [Linkedin](https://www.linkedin.com/in/guerrerofacundo/?locale=en_US)
 
-✉️ mailto:facundoiguerrero@gmail.com
+✉️ facundoiguerrero@gmail.com
